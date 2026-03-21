@@ -1,5 +1,4 @@
 #!/bin/bash
-# Run this once on your server to download JS dependencies
 set -e
 
 echo "Downloading glpk.js..."
